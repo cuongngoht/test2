@@ -1,0 +1,12 @@
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\bin\Debug\net5.0\CoffeeMachineService.deps.json
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\bin\Debug\net5.0\CoffeeMachineService.dll
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\bin\Debug\net5.0\ref\CoffeeMachineService.dll
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\bin\Debug\net5.0\CoffeeMachineService.pdb
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\CoffeeMachineService.csproj.AssemblyReference.cache
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\CoffeeMachineService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\CoffeeMachineService.AssemblyInfoInputs.cache
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\CoffeeMachineService.AssemblyInfo.cs
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\CoffeeMachineService.csproj.CoreCompileInputs.cache
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\CoffeeMachineService.dll
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\ref\CoffeeMachineService.dll
+D:\Projects\NewProject\Test\ServiceLayer\CoffeeMachineService\obj\Debug\net5.0\CoffeeMachineService.pdb
